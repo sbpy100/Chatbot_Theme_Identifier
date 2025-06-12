@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+PyPDF2
+Pillow
+pytesseract
+sentence-transformers
+faiss-cpu
+requests
